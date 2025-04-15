@@ -31,7 +31,7 @@ Spring Boot project for managing user balances using a REST API and H2 database.
 ### 🔹 [ZeroWaste (Hackathon Project)](https://github.com/varun-1729/zerowaste-hackathon)
 Frontend contribution to a food donation and rescue platform developed at XHorizon 2025.
 
-### 🔹 [Personal Portfolio Website](https://varun-1729.github.io)
+### 🔹 [Personal Portfolio Website](https://github.com/Varun-1729/Portfolio)
 My developer portfolio showcasing skills, resume, and projects.
 
 > 👉 Explore more in my [Repositories](https://github.com/varun-1729?tab=repositories)
@@ -46,8 +46,8 @@ My developer portfolio showcasing skills, resume, and projects.
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio Website](https://varun-1729.github.io)
-- 📧 [Email Me](mailto:your@email.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 🌐 [Portfolio Website](https://72qgnm.csb.app/)
+- 📧 [Email Me](mailto:palagani.varun2004@email.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/varun-koushik-a74a1b28a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOmvnK2g6TKaKNw201V3kDQ%3D%3D)
 
 Thanks for visiting! 🚀
