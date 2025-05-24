@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm an aspiring **Java Full Stack Developer** curr
 ### 🔹 [User Balance Tracker API](https://github.com/varun-1729/user-balance-api)
 Spring Boot project for managing user balances using a REST API and H2 database.
 
-### 🔹 [ZeroWaste (Hackathon Project)](https://github.com/varun-1729/zerowaste-hackathon)
+### 🔹 [ZeroWaste (Hackathon Project)](https://github.com/Varun-1729/New-Xhorizon)
 Frontend contribution to a food donation and rescue platform developed at XHorizon 2025.
 
 ### 🔹 [Personal Portfolio Website](https://github.com/Varun-1729/Portfolio)
